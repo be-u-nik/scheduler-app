@@ -10,7 +10,7 @@ This project was developed with [NodeJs](https://nodejs.org/en/docs/).
 
 3. Run `nodemon index.js` to start the app.
 
-4. You can test the scheduler api by opening [http://localhost:3005](http://localhost:3005) and passing a string as an argument.
+4. You can test the scheduler api by opening [http://localhost:3005](http://localhost:3005) and passing a string as after the base url.
 
 ## How Scheduling Works:
 
